@@ -21,5 +21,7 @@ namespace StudentApi.Models
         public string Standard { get; set; }
 
         public string FatherName { get; set; }
+
+        public int RollNumber {  get; set; }
     }
 }
